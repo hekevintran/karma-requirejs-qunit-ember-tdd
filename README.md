@@ -21,4 +21,5 @@ Types Of Tests Supported
 To Do:
 ------
 - Add an Integration Test example.
+- Add an Ember Data Test example.
 - Fix sporadic issue where karma takes longer than normal to execute the tests.
