@@ -1,0 +1,23 @@
+{
+  "name": "karma-requirejs-qunit-ember",
+  "version": "0.1.0",
+  "homepage": "https://github.com/davidjnelson/karma-requirejs-qunit",
+  "authors": [
+    "davidjnelson <david.jonathan.nelson@gmail.com>"
+  ],
+  "description": "a seed project showing how to use karma, requirejs, qunit, and ember together to do unit and dom testing.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.1.2",
+    "requirejs-text": "~2.0.10",
+    "requirejs": "~2.1.9"
+  }
+}
