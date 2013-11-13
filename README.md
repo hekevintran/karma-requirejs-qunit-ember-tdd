@@ -23,3 +23,8 @@ To Do:
 ------
 - Add an Integration Test example.
 - Add an Ember Data Test example.
+
+Join Us
+-------
+- If you are passionate about javascript, single page apps, test driven development, ember, and helping doctors save lives,
+we're hiring!  Take a look at our open positions:  [http://www.practicefusion.com/careers/jobs.html](http://www.practicefusion.com/careers/jobs.html)  Don't forget to tell them that David Nelson sent you :-)
